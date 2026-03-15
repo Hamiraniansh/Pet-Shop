@@ -21,3 +21,7 @@ This project allows users to browse products, view details, and interact with a 
 - **Backend:** Node.js, Express  
 - **Database:** MongoDB  
 - **Tools:** npm, Postman (for API testing)
+
+
+
+Developer: Bruhz Ansh
